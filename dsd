@@ -1,0 +1,62 @@
+[33m222cc01[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Imported snow texture, and made a blend material for vertext paint.
+[33mb069b62[m adjust blackhole
+[33m7974408[m Add BlackHole
+[33m8a42211[m Adjust the size of the paddle and projectile
+[33mf4c1b36[m Merge branch 'main' of https://github.com/gabeutah15/PopIce into main
+[33m4662a4c[m updated new brick, ground mesh. created a HDRI skybox.
+[33mfcc67b0[m Merge branch 'main' of https://github.com/gabeutah15/PopIce into main
+[33m5db94fb[m added count down timer synchronous with twitch delay on input
+[33m72adfb4[m Attach material to the mesh
+[33m18cf5c0[m Paddle Mesh
+[33me93c28b[m Add paddle to our project
+[33m6373138[m Modify the names of assets
+[33m6ccf422[m Adding snow into the level
+[33m95edfde[m Added random effect on 0 votes. Added print string of winning vote.
+[33mb71d266[m Added voting tally and timer. Still needs on-screen display of votes.
+[33m74a9d31[m Frenzy mode Energy and manager added, still working on the collision and remaining the velocity after collision.
+[33ma733007[m Add PlayerBall
+[33m68e4b4b[m tried adding brick static mesh to block bp but didn't work
+[33mf5e0561[m fixed issue with restart losing a paddle
+[33mb42a73f[m Add Bricks and Ice Texture and Mesh
+[33m6c3850c[m changed projectile and ai size and added bool for is firing up or down and a variable for ball speed
+[33m0047b14[m a
+[33mecc35c9[m implemented basic enemy ai that moves back and forth and fires a projectile at the paddle
+[33mf3ff225[m as
+[33mb797b36[m a
+[33m653e665[m portals in map
+[33m7c7fb7c[m add snow particle system
+[33m7f6c68d[m small edit to block spawning for 3d
+[33m121bb49[m Wind manager added
+[33ma6f969a[m changes to spawn velocity of balls and tried to fix balls getting stuck issue
+[33m8257364[m Initial commit for the portal/black hole Blueprint.
+[33mbea4d72[m added random ball spawning on block break
+[33m90bf429[m 2 paddles, spawning, double control, added direction from paddle to ball, added leveled blocks that fall onto one another, use other camdra mode to see
+[33m3599843[m added second paddle
+[33m89f6f8f[m added some horizontal velocity to ball from moving paddle
+[33md7c0108[m Paddle speed changed to 200
+[33m62a346a[m small test change
+[33mae59e80[m fix to block command
+[33m25e4b8b[m temp fix left side cant move from
+[33md4a9aac[m added constraint on ball and edited left wall but still get stuck on left wall
+[33m1790162[m added block command to put a block back
+[33m557aa8d[m added left and right
+[33me2939b7[m setup twitch integration with 'coin' input to increase coin numbers
+[33m0027df6[m changed paddle to collide with walls and replaced walls with visible cubes
+[33mc59391b[m Merge branch 'main' of https://github.com/gabeutah15/PopIce into main
+[33m1d52a52[m dunno
+[33mdd1662a[m minor changes
+[33m34ea54a[m Add one more chair to the map, Test Pushing
+[33m5c29b64[m code cleanup
+[33m17ea462[m some edits to 3d rep
+[33m47a48f6[m change to block side of sprite
+[33m8dfccb0[m added press F for different camera mode and 3d model for ball and blocks and directional lights
+[33m9bc6b55[m minor scene adjustments
+[33me9deb97[m finished with initial 2d breakout from tutorial
+[33mcd09cc1[m added basic block breaker level with moving paddle, ball projectile and destructible blocks and bounding volumen and trigger volume ball respawner from tutorial
+[33m7f32a11[m Merge branch 'main' of https://github.com/gabeutah15/PopIce into main
+[33m1a20df3[m tested access: spawn staircase
+[33ma3ce7fc[m Duplicated a chair to test if I have commit access.
+[33m891043f[m changed gitignore location
+[33m5412691[m first project push
+[33m9be7445[m Create README.md
+[33m8f67eec[m Create .gitignore
